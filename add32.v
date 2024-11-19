@@ -1,22 +1,6 @@
-//////////////////////////////////////////////////////////////////////////////////
-// Company:
-// Engineer:
-//
-// Create Date:    18:55:22 05/15/2019
-// Design Name:
-// Module Name:    add32
-// Project Name:
-// Target Devices:
-// Tool versions:
-// Description:
-//
-// Dependencies:
-//
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-//
-//////////////////////////////////////////////////////////////////////////////////
+//*********************************************************//
+//************  adder 32-bit   *******************************//
+//************************************************************//
 module add32(a, b, sum, carry_out,carry_in);
     input [31:0] a, b;
     input carry_in;
