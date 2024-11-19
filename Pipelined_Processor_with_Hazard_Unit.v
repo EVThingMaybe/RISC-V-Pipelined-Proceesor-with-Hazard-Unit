@@ -8,7 +8,7 @@
 //----------------------------------------------------------------------------------------
 // Created by:             Wenchao Yu
 // Created date:           2024/11/15 12:58:24
-// mail      :             wenchao.yu@rwth-aachen.de
+// mail      :            
 // Version:                V1.0
 // TEXT NAME:              Pipelined_Processor_with_Hazard_Unit.v
 // PATH:                   Pipeline_CPU_RISC-V/Pipelined_Processor_with_Hazard_Unit.v
