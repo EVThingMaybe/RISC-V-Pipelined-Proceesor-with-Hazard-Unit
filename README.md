@@ -1,5 +1,5 @@
 # RISC-V Pipelined Processor with Hazard Unit Design
-![picture](documents/RISC-V Pipelined Processor with Hazard Unit.png)
+![picture](documents/RISC-V_Pipelined_Processor_with_Hazard_Unit.png)
 
 ## 1. Introduction
 RISC-V is a modular and open Instruction Set Architecture (ISA) known for its simplicity and efficiency. In a pipelined processor, parallel execution of multiple instructions across various stages introduces challenges such as data hazards, control hazards, and structural hazards. The Hazard Unit is a critical component designed to resolve these issues and maintain pipeline correctness and performance.
